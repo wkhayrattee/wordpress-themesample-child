@@ -1,0 +1,17 @@
+{
+  "name": "sevenphp/wordpress-themesample-child",
+  "description": "A sample wordpress child theme skeleton to show how to implement a child theme with best practice.",
+  "keywords": ["wordpress child theme", "wordpress theme", "child theme", "wordpress"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Wassseem Khayrattee",
+      "email": "git@7php.com",
+      "homepage": "http://7php.com"
+    }
+  ],
+  "type": "wordpress-theme",
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
